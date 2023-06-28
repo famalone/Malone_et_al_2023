@@ -1,0 +1,1 @@
+This folder will fill with outputs of R stats.
